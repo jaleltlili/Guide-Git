@@ -1,0 +1,5 @@
+1. Configurer le nom de l'utilisateur:
+git config --global user.name "Prenom Nom"
+
+2. Configurer l'e-mail de l'utilisateur:
+git config --global user.email email@domaine.extenstion
