@@ -1,9 +1,0 @@
-Se placer dans le dossier racine du projet.
-Exécuter la commande suivante:
-git init
-
-Git configure la création du dépôt (repository) avec le message suivant:
-Initialized empty Git repository in E:/depot/.git/
-
-Cette action va créer un dossier nommé .git à la racine du projet (dossier invisible: .git)
-
